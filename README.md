@@ -1,8 +1,8 @@
-This is a dead simple Maven project which uses Hadoop. It follows [this guide][1].
+This is a dead simple Maven project which uses Hadoop. It follows [this guide](http://hadoopi.wordpress.com/2013/05/25/setup-maven-project-for-hadoop-in-5mn/).
 
-==Quick Start
+### Quick Start
 
-Assuming you have [hadoop][2] and mvn available on your machine:
+Assuming you have [hadoop](http://www.apache.org/dyn/closer.cgi/hadoop/common/) and mvn available on your machine:
 
     $ git clone ...
     $ cd maven-hadoop-quickstart
@@ -19,7 +19,3 @@ Assuming you have [hadoop][2] and mvn available on your machine:
     Aaru	1
     Ab	1
     Ababdeh	1
-
-
-    [1] http://hadoopi.wordpress.com/2013/05/25/setup-maven-project-for-hadoop-in-5mn/
-    [2] http://www.apache.org/dyn/closer.cgi/hadoop/common/
